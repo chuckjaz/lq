@@ -1,0 +1,15 @@
+{
+	"name": "lq",
+	"description": "lq, a query like library",
+	"author": "Chuck Jazdzewski <chuckjaz@hotmail.com> (http://removingalldoubt.com)",
+	"version": "0.0.1",
+	"main" : "lq.js",
+	"devDependencies": {
+	    "yaut": ">= 0.0.1"
+	},
+	"license" : { 
+		"type": "MS-RL",
+		"url": "http://opensource.org/licenses/MS-RL"
+	},
+	"repository": "git://github.com/chuckjaz/lq.git" 
+}
