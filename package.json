@@ -1,6 +1,6 @@
 {
 	"name": "lq",
-	"description": "lq, a query like library",
+	"description": "lq - a node.js query library",
 	"author": "Chuck Jazdzewski <chuckjaz@hotmail.com> (http://removingalldoubt.com)",
 	"version": "0.0.1",
 	"main" : "lq.js",
